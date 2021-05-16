@@ -1,3 +1,5 @@
 # hello-world
 just another repository
-readme-edits
+hello i am harshit0123
+and i am a student
+and interested in coding
